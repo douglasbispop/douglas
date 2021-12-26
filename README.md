@@ -7,7 +7,7 @@ douglasbispop
 
 
 ▶ Languages and Tools:
-bootstrap css3 figma firebase git html5 javascript linux mongodb mysql nextjs nodejs php postman python react redux xd
+https://getbootstrap.com/ css3 figma firebase git html5 javascript linux mongodb mysql nextjs nodejs php postman python react redux xd
 
 
 ▶ Support:
