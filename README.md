@@ -11,14 +11,14 @@
 
 - 💬 Ask me about ** Html, CSS, Javascript, MySQL, React, Redux, NextJS, WebView, Android, iOS**
 
-- 📫 How to reach me **douglas@royalagencia.com.br**
+- 📫 How to reach me **Soon**
 
 </br>
 
 <h3 align="left">▶ Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/360brave" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" /></a>
-  <a href="https://github.com/douglasbispop" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="douglasbispop" height="30" width="40" /></a>
+  <a href="https://instagram.com" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" /></a>
+  <a href="https://github.com/dougdbp" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="douglasbispop" height="30" width="40" /></a>
 
 </p>
 </br>
