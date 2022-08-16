@@ -5,11 +5,11 @@
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douglasbispop&label=Profile%20views&color=0e75b6&style=flat" alt="douglasbispop" /> </p>
 
-- 🔭 I’m currently working on [Future Doug's Chanel here](#) (My Future YouTube Channel)
+- 🔭 I’m currently working on [Future Doug's Chanel here](#)
 
 - 📝 I regularly write articles on [https://medium.com/](https://medium.com) 
 
-- 💬 Ask me about ** Html, CSS, Javascript, MySQL, React, Redux, NextJS, WebView, Android, iOS**
+- 💬 Ask me about ** Html, CSS, Javascript, React, NextJS, WebView **
 
 - 📫 How to reach me **Soon**
 
