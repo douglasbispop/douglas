@@ -18,7 +18,7 @@
 <h3 align="left">▶ Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" /></a>
-  <a href="https://github.com/dougdbp" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="douglasbispop" height="30" width="40" /></a>
+  <a href="https://github.com/dougdbp" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="dougdbp" height="30" width="40" /></a>
 
 </p>
 </br>
@@ -43,14 +43,14 @@
 </br>
 </br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=douglasbispop&show_icons=true&locale=en" alt="douglasbispop" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dougdbp&show_icons=true&locale=en" alt="dougdbp" /></p>
 
 <h3 align="left">▶ Support:</h3>
-<p><a href="#"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="douglasbispop" /></a></p><br><br>
+<p><a href="#"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="douglasbispopdougdbp
 
 <!-- ### Hi there 👋
 <!--
-**douglasbispop/douglasbispop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dougdbp/dougdbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
