@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/](https://medium.com) 
 
-- 💬 Ask me about ** Html, CSS, Javascript, React, NextJS, WebView **
+- 💬 Ask me about **Html, CSS, Javascript, React, NextJS, NodeJS, Wordpress & E-commerce**
 
 - 📫 How to reach me **Soon**
 
