@@ -43,10 +43,8 @@
 </br>
 </br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dougdbp&show_icons=true&locale=en" alt="dougdbp" /></p>
-
 <h3 align="left">▶ Support:</h3>
-<p><a href="#"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="douglasbispopdougdbp
+<p><a href="#"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dougdbp
 
 <!-- ### Hi there 👋
 <!--
