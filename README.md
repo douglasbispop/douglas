@@ -9,9 +9,9 @@
 
 - 📝 I regularly write articles on: [https://medium.com/](https://medium.com) 
 
-- 💬 Ask me about: **Html, CSS, Javascript, React, NextJS, NodeJS, Wordpress & E-commerce**
+- 💬 Ask me about: **HTML5, CSS3, Javascript, React, NodeJS, Express.JS, Wordpress & E-commerce**
 
-- 📫 How to reach me: douglas@360brave.com
+- 📫 How to reach me: douglas@douglaspeixoto.dev
 
 </br>
 
