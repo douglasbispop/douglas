@@ -5,9 +5,9 @@
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douglasbispop&label=Profile%20views&color=0e75b6&style=flat" alt="douglasbispop" /> </p>
 
-- 🔭 I’m currently working on: [Future Doug's Chanel here](#)
+- 🔭 I’m currently working on: [Personal portfolio](https://douglaspeixoto.dev)
 
-- 📝 I regularly write articles on: [https://medium.com/](https://medium.com) 
+- 📝 I regularly write articles on: [Medium](https://medium.com) 
 
 - 💬 Ask me about: **HTML5, CSS3, Javascript, React, NodeJS, Express.JS, Wordpress & E-commerce**
 
